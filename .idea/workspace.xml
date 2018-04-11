@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad89de06-ea5b-43c9-93c5-dc42b8afc184" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/.idea/ml.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/3Classifier/__init__.py" afterPath="$PROJECT_DIR$/3/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/3Classifier/mnist.py" afterPath="$PROJECT_DIR$/3/mnist.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/code/create.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/code/generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ml/code/ridge.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/Untitled.ipynb" afterPath="$PROJECT_DIR$/mlpractice/Untitled.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/__init__.py" afterPath="$PROJECT_DIR$/mlpractice/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/RF.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/RF.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/adaboost.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/adaboost.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/gaussian_nb.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/gaussian_nb.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/gbdt.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/gbdt.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/generate.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/generate.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/kmeans.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/kmeans.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/knn.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/knn.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/lda.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/lda.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/lle.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/lle.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/pca.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/pca.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/pca.py" afterPath="$PROJECT_DIR$/mlpractice/code/pca.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/ridge.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/ridge.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/svm.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/svm.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/test.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/test.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/tree.ipynb" afterPath="$PROJECT_DIR$/mlpractice/code/tree.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/code/tree.py" afterPath="$PROJECT_DIR$/mlpractice/code/tree.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/CCPP.zip" afterPath="$PROJECT_DIR$/mlpractice/data/CCPP.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/CCPP/Folds5x2_pp.csv" afterPath="$PROJECT_DIR$/mlpractice/data/CCPP/Folds5x2_pp.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/CCPP/Folds5x2_pp.ods" afterPath="$PROJECT_DIR$/mlpractice/data/CCPP/Folds5x2_pp.ods" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/CCPP/Folds5x2_pp.xlsx" afterPath="$PROJECT_DIR$/mlpractice/data/CCPP/Folds5x2_pp.xlsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/CCPP/Readme.txt" afterPath="$PROJECT_DIR$/mlpractice/data/CCPP/Readme.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/train_modified.csv" afterPath="$PROJECT_DIR$/mlpractice/data/train_modified.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/data/train_modified.zip" afterPath="$PROJECT_DIR$/mlpractice/data/train_modified.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/images/classification/precision_recall_vs_threshold_plot.png" afterPath="$PROJECT_DIR$/mlpractice/images/classification/precision_recall_vs_threshold_plot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/iris.dot" afterPath="$PROJECT_DIR$/mlpractice/iris.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/iris.pdf" afterPath="$PROJECT_DIR$/mlpractice/iris.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/start_ipython_notebook.sh" afterPath="$PROJECT_DIR$/mlpractice/start_ipython_notebook.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2/hoursepredict.py" afterPath="$PROJECT_DIR$/2/hoursepredict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker-compose.yml" afterPath="$PROJECT_DIR$/docker/docker-compose.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +46,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="hoursepredict.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hoursepredict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2/hoursepredict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mlpractice/code/generate.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mlpractice/code/test.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ridge.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mlpractice/code/ridge.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -34,17 +90,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2/hoursepredict.py" />
+        <option value="$PROJECT_DIR$/mlpractice/code/generate.ipynb" />
+        <option value="$PROJECT_DIR$/mlpractice/code/linearregression.ipynb" />
+        <option value="$PROJECT_DIR$/mlpractice/code/ridge.ipynb" />
+        <option value="$PROJECT_DIR$/mlpractice/code/test.ipynb" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="-4" />
     <option name="width" value="735" />
     <option name="height" value="604" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -67,6 +138,30 @@
             <path>
               <item name="handson-ml" type="b2602c69:ProjectViewProjectNode" />
               <item name="handson-ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="handson-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="handson-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="mlpractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="handson-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="handson-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="mlpractice" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="handson-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="handson-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="mlpractice" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="handson-ml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="handson-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="mlpractice" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="CCPP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -97,6 +192,24 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Jupyter Notebook.handson-ml">
+    <configuration name="handson-ml" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="handson-ml" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -111,26 +224,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="2491" height="941" extended-state="6" />
+    <frame x="65" y="-4" width="1211" height="940" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118609406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25537404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -146,6 +259,65 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/hoursepredict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/hoursepredict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/linearregression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/create.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/generate.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/ridge.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlpractice/code/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="17" />
         </state>
       </provider>
     </entry>
