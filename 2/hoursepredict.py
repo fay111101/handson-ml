@@ -18,7 +18,7 @@ __author__ = 'fay'
 import os
 import tarfile
 from six.moves import urllib
-DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml/master/"
+DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-mlpractice/master/"
 HOUSING_PATH = "datasets/housing"
 HOUSING_URL = DOWNLOAD_ROOT + HOUSING_PATH + "/housing.tgz"
 def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
